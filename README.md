@@ -1,2 +1,2 @@
 # Camire_Official_Website
-Camire Shop FullStack Website serving for real client with thousands of customers
+Real-time Shop Website with thousands of customers and users
